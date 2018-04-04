@@ -1,6 +1,6 @@
-# Evening-Brew-ML
+# Evening-Brew
 Evening brew session 05/04/2018 - TIQRI
-## Learn new technology - Machine Learning
+## Learn something together - Machine Learning
 
 __Machine learning__
 Building a model from example inputs to make data driven prediction vs. following strictly static program instructions. Mainly system learns how to solve a problem from example data rather than following a specific logic written with branching statements.
@@ -14,10 +14,12 @@ __the initial data we used drives the prediction logic, not a logic written by a
 ## How they learn, types of learning
 ![check the video](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/learining.mp4)
 
-## Using Azure ML Studio
+## We will be useing Azure ML Studio to get-in to our goal
 [https://studio.azureml.net/](https://studio.azureml.net/)
 
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/interview-two-class-prediction.PNG)
+
+__Why ML studio__
 
 Azure Machine Learning Studio is a collaborative, drag-and-drop tool you can use to build, test, and deploy predictive analytics solutions on your data. Tutorials, videos, and example models show you how to use Studio to build and deploy machine learning models.
 
@@ -28,6 +30,19 @@ __Asking the right question > Preparing data > Selecting the algorithm > trainin
 
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/guide.png)
 
+We have prepared some data sets here,
+![Diabetes-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/blood-suger/diabetes.csv)
+
+![Function-approximation](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/function-approximation-cos/cos-function.csv)
+
+![kickstarter-projects-success](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/kickstarter-projects/kick-2016.csv)
+
+![interview-attendence](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/will-they-come-to-interview/Interview.csv)
+
+Each team will be given a data set which they needs to analyse using ML studio, and needs to present it to the crowed with the findings.
+
+![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/some-output.PNG)
+ 
 
 ## How do I ?
 __Begin__ 
