@@ -12,3 +12,6 @@ __In Machine learning__
 __We__ gather a dataset from a problem domain, and __pre-process__ it in to a form where machine learning algorithm can understand. Then we feed the data to an __algorithm__ which analyses the data and produce a __model__ . This __model__ implements the solution to resolve the problem based on the data.
 __the initial data we used drives the prediction logic, not a logic written by a programmer.__
 ## How they learn, types of learning
+![check the video](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/learining.mp4)
+
+## Using Azure ML Studio
