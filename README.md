@@ -16,7 +16,22 @@ __the initial data we used drives the prediction logic, not a logic written by a
 
 ## Using Azure ML Studio
 [https://studio.azureml.net/](https://studio.azureml.net/)
+
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/interview-two-class-prediction.PNG)
 
 Azure Machine Learning Studio is a collaborative, drag-and-drop tool you can use to build, test, and deploy predictive analytics solutions on your data. Tutorials, videos, and example models show you how to use Studio to build and deploy machine learning models.
 
+## How do I ?
+__Begin__ 
+[Azure Machine Learning Studio Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
+__Find data sets__
+[https://www.kaggle.com](https://www.kaggle.com)
+This is only one in many good chioces... why don't you try google!
+
+__Algorithm Selection__ 
+[Machine learning algorithm cheat sheet](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-cheat-sheet)
+[How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
+__Capabilities__ 
+[Overview diagram of Azure Machine Learning Studio capabilities](https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-overview-diagram)
+__Try some serious s#!t__
+[Create text analytics models in Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/text-analytics-module-tutorial)
