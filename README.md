@@ -31,6 +31,7 @@ __Asking the right question > Preparing data > Selecting the algorithm > trainin
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/guide.png)
 
 We have prepared some data sets here,
+
 ![Diabetes-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/blood-suger/diabetes.csv)
 
 ![Function-approximation](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/function-approximation-cos/cos-function.csv)
