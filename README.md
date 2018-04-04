@@ -15,3 +15,6 @@ __the initial data we used drives the prediction logic, not a logic written by a
 ![check the video](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/learining.mp4)
 
 ## Using Azure ML Studio
+![https://studio.azureml.net/](https://studio.azureml.net/)
+Azure Machine Learning Studio is a collaborative, drag-and-drop tool you can use to build, test, and deploy predictive analytics solutions on your data. Tutorials, videos, and example models show you how to use Studio to build and deploy machine learning models.
+
