@@ -48,6 +48,7 @@ Each team will be given a data set which they needs to analyse using ML studio, 
 __Begin__ 
 
 [Azure Machine Learning Studio Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/studio/)
+
 __Find data sets__
 
 [https://www.kaggle.com](https://www.kaggle.com)
@@ -64,4 +65,5 @@ __Capabilities__
 [Overview diagram of Azure Machine Learning Studio capabilities](https://docs.microsoft.com/en-us/azure/machine-learning/studio/studio-overview-diagram)
 
 __Try some serious s#!t__
+
 [Create text analytics models in Azure Machine Learning Studio](https://docs.microsoft.com/en-us/azure/machine-learning/studio/text-analytics-module-tutorial)
