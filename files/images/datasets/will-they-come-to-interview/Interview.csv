@@ -1,0 +1,1234 @@
+industry,location,position,skillset,interviewtype,gender,candidatelocation,joblocation,interviewvenue,candidatenativelocation,permission,nomeetings,follow,alternativenumber,printout,clearvenue,callletter,expected attendance,observed attendance,marital status
+pharmaceuticals,chennai,production- sterile,routine,scheduled walkin,male,chennai,hosur,hosur,hosur,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,production- sterile,routine,scheduled walkin,male,chennai,bangalore,hosur,trichy,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,production- sterile,routine,scheduled walkin,male,chennai,chennai,hosur,chennai,na,na,na,na,na,na,na,uncertain,no,single
+pharmaceuticals,chennai,production- sterile,routine,scheduled walkin,male,chennai,chennai,hosur,chennai,yes,yes,no,yes,no,yes,yes,uncertain,no,single
+pharmaceuticals,chennai,production- sterile,routine,scheduled walkin,male,chennai,bangalore,hosur,chennai,yes,yes,yes,no,yes,yes,yes,uncertain,no,married
+it services,gurgaon,selenium testing,routine,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,gurgaon,selenium testing,routine,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,gurgaon,selenium testing,routine,scheduled walkin,female,gurgaon,gurgaon,gurgaon,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,gurgaon,selenium testing,routine,scheduled walkin,male,gurgaon,gurgaon,gurgaon,delhi /ncr,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,gurgaon,selenium testing,routine,scheduled walkin,female,gurgaon,gurgaon,gurgaon,delhi /ncr,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,female,bangalore,bangalore,bangalore,trivandrum,no,yes,no,no,yes,yes,yes,uncertain,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,trivandrum,no,yes,yes,yes,yes,yes,havent checked,uncertain,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,female,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,female,bangalore,bangalore,bangalore,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,no,yes,yes,no,yes,yes,yes,no,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,trivandrum,not yet,yes,yes,yes,yes,yes,no,no,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,trivandrum,yes,yes,yes,no,no,yes,yes,uncertain,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,no,no,yes,yes,yes,yes,no,no,no,single
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,no,yes,yes,yes,yes,yes,no,no,no,married
+it services,bangalore,dot net,routine,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,no,yes,yes,yes,no,yes,no,no,no,single
+bfsi,chennai,aml,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,aml,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,aml,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,aml,routine,scheduled walkin,female,chennai,chennai,chennai,coimbatore,yes,yes,yes,no,yes,yes,need to check,uncertain,no,single
+bfsi,chennai,aml,routine,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,aml,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,aml,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,no,yes,no,yes,no,no,married
+bfsi,chennai,aml,routine,scheduled walkin,male,chennai,chennai,chennai,salem,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,trade finance,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,no- i need to check,yes,no,no,married
+bfsi,chennai,trade finance,routine,scheduled walkin,female,chennai,chennai,chennai,tanjore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,trade finance,routine,scheduled walkin,female,chennai,chennai,chennai,trichy,yes,yes,yes,no,no- will take it soon,yes,yes,no,no,married
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,trade finance,routine,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,trade finance,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,trade finance,routine,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,no- i need to check,not sure,no,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,mumbai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,need to check,no,no,married
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yet to confirm,yes,yes,yes,no,yes,yes,no,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yet to confirm,yes,yes,no i have only thi number,yes,yes,yes,no,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,no i have only thi number,yes,no,yes,no,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yet to confirm,yes,yes,yes,yes,no,yes,no,no,single
+bfsi,chennai,routine,oracle,scheduled walkin,male,chennai,chennai,chennai,chennai,yet to confirm,yes,yes,yes,yes,no,need to check,no,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes ,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,no,no,no,no,no,yes,yes,no,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,no,yes,no,no,na,na,yet to check,uncertain,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,no,yes,yes,yes,no,no,not sure,no,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,no,yes,yes,yes,no,no,not sure,no,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,mumbai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no ,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,female,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,female,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,niche,banking operations,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,fresher,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,no,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,allahabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,panjim,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,mumbai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,not yet,yes,yes,yes,yes,yes,yes,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,not yet,yes,yes,yes,yes,yes,yes,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,no,yes,not yet,yes,yes,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,cochin,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,allahabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,pune,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,visakapatinam,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,mumbai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,belgaum,no,na,na,na,na,na,na,no,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,no,yes,yes,yes,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,patna,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,patna,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,cochin,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,not yet,uncertain,no,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,aml/kyc/cdd,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,cochin,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,no,yes,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,bangalore,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,not yet,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,hyderabad,niche,biosimiliars,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,ra label,scheduled walkin,male,hyderabad,chennai,hyderabad,visakapatinam,yes,yes,yes,yes,yes,no,yes,uncertain,no,married
+pharmaceuticals,hyderabad,niche,ra label,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,male,hyderabad,chennai,hyderabad,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,female,hyderabad,chennai,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,female,hyderabad,chennai,hyderabad,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,male,hyderabad,chennai,hyderabad,chitoor,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,hyderabad,niche,ra publishing,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,emea,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,emea,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,niche,emea,scheduled walkin,male,hyderabad,chennai,hyderabad,chitoor,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,hyderabad,niche,biosimiliars,scheduled walkin,male,hyderabad,chennai,hyderabad,anantapur,yes,yes,no,yes,yes,yes,yes,uncertain,yes,married
+pharmaceuticals,hyderabad,niche,lcm -manager,scheduled walkin,male,hyderabad,chennai,hyderabad,warangal,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,hyderabad,niche,licensing – ra,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,hyderabad,niche,licensing – ra,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,hyderabad,niche,generic drugs – ra,scheduled walkin,female,hyderabad,chennai,hyderabad,hyderabad,yes,yes,yes,no,yes,yes,yes,uncertain,no,single
+pharmaceuticals,hyderabad,niche,biosimilars,scheduled walkin,male,hyderabad,chennai,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,routine,regulatory,scheduled walkin,male,bangalore,chennai,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,routine,regulatory,scheduled walkin,male,bangalore,visakapatinam,hyderabad,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,routine,regulatory,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,no dont,yes,yes,yes,no,uncertain,yes,married
+pharmaceuticals,bangalore,routine,regulatory,scheduled walkin,female,bangalore,visakapatinam,hyderabad,ahmedabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,regulatory,scheduled walkin,female,hyderabad,visakapatinam,hyderabad,ahmedabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,regulatory,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,no,yes,yes,uncertain,yes,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,visakapatinam,yes,yes,no,yes,no,yes,yes,uncertain,no,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,female,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,chennai,routine,analytical r&d,scheduled walkin,male,chennai,visakapatinam,hyderabad,kurnool,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,bangalore,routine,analytical r&d,scheduled walkin,male,bangalore,visakapatinam,hyderabad,vijayawada,yes,no,yes,yes,yes,yes,no,uncertain,no,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,female,hyderabad,visakapatinam,hyderabad,vijayawada,yes,yes,yes,no,yes,yes,yes,uncertain,yes,single
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,vijayawada,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,hyderabad,routine,analytical r & d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,analytical r&d,scheduled walkin,male,hyderabad,visakapatinam,hyderabad,vijayawada,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,no,yes,yes,no,no,not sure,no,no,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,no,yes,no,yes,no,no,no,no,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,salem,no,not sure,yes,yes,yes,yes,yes,no,no,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,no,yes,yes,yes,yes,yes,no,no,married
+pharmaceuticals,chennai,niche,tech lead-mednet,scheduled walkin,female,chennai,chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,trichy,no,yes,yes,yes,yes,yes,yes,no,no,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,female,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,tech lead- mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,married
+pharmaceuticals,chennai,niche,technical lead,scheduled walkin,male,chennai,chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,single
+pharmaceuticals,chennai,niche,senior software engineer-mednet,scheduled walkin,male,chennai,chennai,chennai,chennai,no,yes,yes,yes,yes,yes,yes,no,no,married
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,tl,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,vellore,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,tl,scheduled walkin,male,chennai,chennai,chennai,pondicherry,yes,yes,yes,yes,no,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sr automation testing,scheduled walkin,female,chennai,chennai,chennai,ahmedabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,sr automation testing,scheduled walkin,female,chennai,chennai,chennai,pondicherry,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,tl,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sr automation testing,scheduled walkin,female,chennai,chennai,chennai,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sr automation testing,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,senior analyst,scheduled walkin,male,chennai,chennai,chennai,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,senior analyst,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,no,uncertain,no,single
+bfsi,chennai,routine,senior analyst,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,senior analyst,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,senior analyst,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,no,yes,yes,yes,yes,uncertain,yes,single
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,pune,no,yes,yes,yes,yes,yes,yes,uncertain,no,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,mumbai,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,routine,production,scheduled walkin,male,bangalore,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,niche,regulatory,scheduled walkin,male,bangalore,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,niche,regulatory,scheduled walkin,male,bangalore,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,hyderabad,niche,regulatory,scheduled walkin,male,hyderabad,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,routine,regulatory,scheduled walkin,female,bangalore,chennai,chennai,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,regulatory,scheduled walkin,female,hyderabad,chennai,chennai,ahmedabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,hyderabad,routine,regulatory,scheduled walkin,male,hyderabad,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,pune,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,core java,scheduled walkin,female,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+it products and services,gurgaonr,routine,java j2ee,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,java j2ee,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,vellore,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,pondicherry,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,vellore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,nagercoil,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chitoor,yes,cant say,yes,yes,yes,yes,yes,uncertain,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chitoor,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,pondicherry,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,pondicherry,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,oracle plsql,scheduled walkin,female,chennai,chennai,chennai,cochin,no,na,na,na,na,na,na,no,no,married
+it products and services,gurgaon,routine,"java,sql",scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,na,na,na,na,na,na,na,uncertain,yes,single
+it products and services,gurgaon,routine,"java,sql",scheduled walkin,female,gurgaon,gurgaon,gurgaon,agra,yes,yes,yes,yes,yes,yes,no,uncertain,no ,single
+it products and services,delhi,routine,"java,sql",scheduled walkin,male,delhi,gurgaon,gurgaon,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,no,uncertain,yes,single
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,pune,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,automation testing java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,bangalore,niche,submission management,scheduled walkin,male,bangalore,chennai,bangalore,bangalore,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,bangalore,routine,submission management,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,bangalore,niche,biosimillar,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+pharmaceuticals,bangalore,niche,biosimillar,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,biosimillar,scheduled walkin,male,bangalore,chennai,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,mumbai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,pune,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,visakapatinam,na,na,na,na,na,na,na,uncertain,no,single
+pharmaceuticals,bangalore,niche,publishing,scheduled walkin,male,bangalore,chennai,bangalore,kolkata,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,bhubaneshwar,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,ghaziabad,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,baddi,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,bangalore,niche,global labelling,scheduled walkin,male,bangalore,chennai,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,hosur,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,trichy,na,na,na,na,na,na,na,uncertain,no,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,hosur,na,na,na,na,na,na,na,uncertain,yes,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,nagercoil,na,na,na,na,na,na,na,uncertain,no,single
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,trichy,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,tuticorin,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,female,chennai,chennai,chennai,coimbatore,na,na,na,na,na,na,na,uncertain,yes,married
+pharmaceuticals,chennai,niche,als testing,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chitoor,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,tirupati,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,accounting operations,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,vellore,no,na,na,na,na,na,na,no,no,single
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,no,no,yes,yes,yes,uncertain,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,faizabad,na,na,na,na,na,na,na,uncertain,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,no,yes,yes,no,uncertain,no,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,no,no,single
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,no,yes,yes,yes,uncertain,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,trichy,na,na,na,na,na,na,na,uncertain,no,single
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+electronics,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,trichy,na,na,na,na,na,na,na,uncertain,yes,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,coimbatore,na,na,na,na,na,na,na,uncertain,no,married
+electronics,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,vellore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,lending & liability,scheduled walkin,male,chennai,chennai,chennai,kolkata,yes,yes,yes,no,yes,yes,yes,uncertain,no,single
+bfsi,chennai,routine,lending & liability,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,lending and liabilities,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,l & l,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,lending & liability,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,lending & liability,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,banking operations,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,banking operations,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,l & l,scheduled walkin,female,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,lending&liablities,scheduled walkin,male,bangalore,bangalore,bangalore,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,lending&liablities,scheduled walkin,male,bangalore,bangalore,bangalore,ambur,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,coimbatore,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,cochin,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,no,no,yes,yes,yes,uncertain,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,allahabad,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,cdd kyc,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,no,yes,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,cdd kyc,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chandigarh,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cuttack,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cochin,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,cuttack,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,tirupati,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,ahmedabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,mysore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,pune,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java jsf,scheduled walkin,male,chennai,chennai,chennai,nagercoil,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,java jsf,scheduled walkin,female,chennai,chennai,chennai,pune,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,"java ,j2ee",scheduled walkin,male,chennai,chennai,chennai,chandigarh,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,"java ,j2ee",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java ,j2ee",scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,"java ,j2ee",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,allahabad,no,yes,yes,yes,yes,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,tirupati,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,nagercoil,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,,scheduled walkin,male,chennai,chennai,chennai,cochin,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,"java, j2ee",scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,pune,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,mumbai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,allahabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chandigarh,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/core java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,"java, j2ee",scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,"java,j2ee",scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chandigarh,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,no,no,uncertain,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/spring/hibernate/jsf,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java jsf,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java jsf,scheduled walkin,female,chennai,chennai,chennai,pune,not yet,yes,yes,no,no,yes,no,uncertain,no,single
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,"java,j2ee, jsf",scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,noida,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,nagercoil,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,t-24 developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+pharmaceuticals,chennai,routine,java j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,single
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,trichy,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,bangalore,no,na,na,na,na,na,na,no,no,single
+telecom,chennai,routine,cots developer,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,no,no,married
+it,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,chennai,routine,java,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,product control,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,product control,scheduled walkin,female,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,product control,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,product control,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,niche,product control,scheduled walkin,male,chennai,chennai,chennai,pune,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,hissar,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,delhi,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it products and services,gurgaon,routine,dot net,scheduled walkin,male,gurgaon,gurgaon,gurgaon,allahabad,yes,yes,yes,yes,yes,no,no,no,no,single
+telecom,chennai,routine,cots,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+telecom,chennai,routine,cots,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+telecom,chennai,routine,cots,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+telecom,chennai,routine,cots,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,kanpur,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,lucknow,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,testing,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+it products and services,gurgaon,routine,testing,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,testing,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,routine,testing,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,not yet,yes,yes,no,not yet,yes,not sure,no,no,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,not yet,not sure,yes,no,no,yes,yes,no,no,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,not yet,yes,yes,no,yes,yes,no,no,no,single
+it products and services,gurgaon,routine,testing,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,not yet,yes,yes,yes,no,yes,no,no,no,single
+electronics,chennai,niche,"sapbo, informatica",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+electronics,chennai,niche,"sapbo, informatica",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+electronics,chennai,niche,"sapbo, informatica",scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+electronics,chennai,niche,"sapbo, informatica",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+it,- cochin- ,routine,etl,scheduled walkin,male,- cochin- ,- cochin- ,- cochin- ,- cochin- ,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,- cochin- ,routine,etl,scheduled walkin,female,- cochin- ,- cochin- ,- cochin- ,trivandrum,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,- cochin- ,routine,etl,scheduled walkin,female,- cochin- ,- cochin- ,- cochin- ,- cochin- ,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,- cochin- ,routine,etl,scheduled walkin,male,- cochin- ,- cochin- ,- cochin- ,- cochin- ,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+it,- cochin- ,routine,etl,scheduled walkin,male,- cochin- ,- cochin- ,- cochin- ,- cochin- ,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,- cochin- ,niche,etl,scheduled walkin,female,- cochin- ,- cochin- ,- cochin- ,- cochin- ,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it,- cochin- ,niche,etl,scheduled walkin,female,- cochin- ,- cochin- ,- cochin- ,trivandrum,not yet,not sure,yes,no,not yet,yes,not sure,no,no,single
+it,- cochin- ,niche,etl,scheduled walkin,male,- cochin- ,- cochin- ,- cochin- ,trivandrum,not yet,not sure,yes,yes,no,yes,yes,no,no,single
+it,- cochin- ,niche,etl,scheduled walkin,male,- cochin- ,- cochin- ,- cochin- ,trivandrum,not yet,not sure,yes,no,not yet,no,yes,no,no,single
+bfsi,chennai,niche,java-sas,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,niche,java-sas,scheduled walkin,male,chennai,chennai,chennai,bangalore,not yet,yes,yes,yes,not yet,yes,not sure,no,no,single
+bfsi,chennai,niche,java-sas,scheduled walkin,male,chennai,chennai,chennai,chennai,not yet,yes,yes,yes,no,yes,yes,no,no,married
+bfsi,chennai,niche,java-sas,scheduled walkin,female,chennai,chennai,chennai,chennai,not yet,yes,yes,yes,yes,no,not sure,no,no,single
+bfsi,chennai,niche,java-sas,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java tech lead,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java tech lead,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java tech lead,scheduled walkin,male,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java tech lead,scheduled walkin,male,chennai,chennai,chennai,chennai,not yet,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java tech lead,scheduled walkin,female,chennai,chennai,chennai,chennai,not yet,yes,yes,yes,yes,yes,not sure,no,no,married
+bfsi,chennai,routine,java tech lead,scheduled walkin,female,chennai,chennai,chennai,vellore,not yet,yes,yes,yes,yes,yes,yes,no,no,single
+bfsi,chennai,routine,manager,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+it products and services,noida,routine,"java,sql",scheduled walkin,male,noida,noida,noida,delhi,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java,sql",scheduled walkin,male,noida,noida,noida,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java,sql",scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java,sql",scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java,sql",scheduled walkin,female,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+it products and services,noida,routine,"java, sql",scheduled walkin,female,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java, sql",scheduled walkin,male,noida,noida,noida,delhi,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,routine,"java, sql",scheduled walkin,male,noida,noida,noida,noida,na,na,na,na,na,na,na,uncertain,yes,single
+it products and services,gurgaon,niche,hadoop,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,female,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,delhi,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,niche,hadoop,scheduled walkin,female,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,niche,hadoop,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,niche,hadoop,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,gurgaon,niche,hadoop,scheduled walkin,male,gurgaon,gurgaon,gurgaon,gurgaon,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+it products and services,noida,niche,hadoop,scheduled walkin,male,noida,noida,noida,noida,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,ambur,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,"sccm-(network, sharepoint,ms exchange)",scheduled walkin,male,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm- desktop support,scheduled walkin,female,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm- networking,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm- desktop support,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm- desktop support,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm- desktop support,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm – sql,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm – sharepoint,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,no,na,na,na,na,na,no,no,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,sccm,scheduled walkin,male,chennai,chennai,chennai,hyderabad,not yet,yes,yes,no,yes,yes,yes,uncertain,yes,single
+bfsi,chennai,routine,production support - sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,production support - sccm,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,no,na,na,na,na,na,no,no,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,chennai,na,na,na,na,na,na,na,na,yes,single
+bfsi,bangalore,routine,basesas program/ reporting,scheduled walkin,male,bangalore,bangalore,bangalore,tirupati,not yet,yes,yes,yes,yes,no,yes,na,yes,married
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,allahabad,na,na,na,na,na,na,na,na,yes,married
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,na,na,na,na,na,na,na,na,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,salem,na,na,na,na,na,na,na,na,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,kolkata,na,na,na,na,na,na,na,na,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,no,married
+bfsi,bangalore,routine,sas,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,na,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,noida,yes,yes,yes,yes,yes,no,not yet,uncertain,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,noida,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,cuttack,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,no,na,na,na,na,na,na,no,no,married
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,bangalore,routine,sas,scheduled walkin,female,bangalore,bangalore,bangalore,bangalore,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,bangalore,routine,sas,scheduled walkin,male,bangalore,bangalore,bangalore,pune,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chandigarh,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cuttack,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cochin,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,na,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,no,na,na,na,na,na,na,uncertain,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,no,na,na,na,na,na,na,uncertain,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,cuttack,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,na,na,na,na,na,na,na,uncertain,no ,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,na,na,na,na,na,na,na,uncertain,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,allahabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,visakapatinam,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,vellore,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java/j2ee/struts/hibernate,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,"java, spring, hibernate",scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,"java, spring, hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java,spring,hibernate",scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,"java,spring,hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no ,married
+bfsi,chennai,routine,"java,spring,hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java, xml, struts, hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai,routine,"java, xml, struts, hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,"java, xml, struts, hibernate",scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,female,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no ,single
+bfsi,chennai,routine,java developer,scheduled walkin,female,chennai,chennai,chennai,chitoor,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java developer,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no ,single
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java/j2ee,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+bfsi,chennai ,routine,java ,scheduled walkin,male,chennai ,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai ,routine,java ,scheduled walkin,male,chennai ,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai ,routine,java ,scheduled walkin,male,chennai ,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java ,scheduled walkin,female,chennai,chennai,chennai,cuttack,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java ,scheduled walkin,male,chennai,chennai,chennai,coimbatore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no ,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,married
+bfsi,chennai,routine,java,scheduled walkin,female,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+bfsi,chennai,routine,java,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,no,single
+pharmaceuticals,chennai,niche,biosimiliars,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,ra publishing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,ra publishing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,ra publishing,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,emea,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,emea,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,emea,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,biosimiliars,scheduled walkin,male,chennai,chennai,chennai,warangal,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,lcm -manager,scheduled walkin,male,chennai,chennai,chennai,warangal,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,licensing – ra,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,licensing – ra,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,generic drugs – ra,scheduled walkin,male,chennai,chennai,chennai,bangalore,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,biosimiliars,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,biosimiliars,scheduled walkin,male,chennai,chennai,chennai,hyderabad,yes,yes,yes,yes,yes,yes,yes,yes,yes,married
+pharmaceuticals,chennai,niche,generic drugs – ra,scheduled walkin,male,chennai,chennai,chennai,chennai,yes,yes,yes,yes,yes,yes,yes,yes,yes,single
+pharmaceuticals,chennai,niche,generic drugs – ra,scheduled walkin,female,chennai,chennai,chennai,kolkata,na,na,na,na,na,na,na,uncertain,yes,single
