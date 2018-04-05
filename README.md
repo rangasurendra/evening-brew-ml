@@ -35,6 +35,9 @@ __What is 'Machine learning flow' means ?__
 __Asking the right question > Preparing data > Selecting the algorithm > training the model > testing the model__
 
 
+![check the video](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/workflow-guide.mp4)
+
+
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/guide.png)
 
 We have prepared some data sets here to begin with, Each team will be assigned a data set which they needs to analyse using ML studio, and present findings to the crowed with appropriate demonstration.
