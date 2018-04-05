@@ -40,18 +40,16 @@ __Asking the right question > Preparing data > Selecting the algorithm > trainin
 We have prepared some data sets here to begin with,
 
 ![Diabetes-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/blood-suger/diabetes.csv)
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage. [More](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
-![Function-approximation](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/function-approximation-cos/cos-function.csv)
-
+![Function-approximation-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/function-approximation-cos/cos-function.csv)
 This is some common trignometry function :)
 
-![kickstarter-projects-success](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/kickstarter-projects/kick-2016.csv)
+![kickstarter-projects-success-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/kickstarter-projects/kick-2016.csv)
+Data are collected from [Kickstarter Platform](https://www.kickstarter.com/) try to predict success/failure out come of a project. [More](https://www.kaggle.com/kemical/kickstarter-projects)
 
-Data are collected from [Kickstarter Platform](https://www.kickstarter.com/)
-
-![interview-attendence](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/will-they-come-to-interview/Interview.csv)
-
-The data pertains to the recruitment industry in India for the years 2014-2016 and deals with candidate interview attendance for various clients. The details are largely self explanatory. More information on [https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem](https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem)
+![interview-attendence-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/will-they-come-to-interview/Interview.csv)
+The data pertains to the recruitment industry in India for the years 2014-2016 and deals with candidate interview attendance for various clients. The details are largely self explanatory. [More](https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem)
 
 Each team will be given a data set which they needs to analyse using ML studio, and needs to present it to the crowed with the findings.
 
