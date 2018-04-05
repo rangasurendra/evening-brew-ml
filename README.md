@@ -40,7 +40,7 @@ __Asking the right question > Preparing data > Selecting the algorithm > trainin
 
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/guide.png)
 
-We have prepared some data sets here to begin with, Each team will be assigned a data set which they needs to analyse using ML studio, and present findings to the crowed with appropriate demonstration.
+We have prepared some data sets here to begin with, Each team will have to go through each data set which they needs to analyse using ML studio, and present findings to the crowed with appropriate demonstration.
 
 1. [Diabetes-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/blood-suger/diabetes.csv)
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage. [More](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
