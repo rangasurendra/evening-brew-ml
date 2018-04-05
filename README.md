@@ -28,9 +28,9 @@ __Why ML studio__
 
 Azure Machine Learning Studio is a __collaborative, drag-and-drop tool__ you can use to __build, test, and deploy__ predictive analytics solutions on your data. Tutorials, videos, and example models show you how to use Studio to build and deploy machine learning models.
 
-## we will be focusing mainly on machine learning flow, and the algorithm selection
+## We will be focusing mainly on machine learning flow, and the algorithm selection
 
-__Machine learning flow__
+__What is 'Machine learning flow' means ?__
 
 __Asking the right question > Preparing data > Selecting the algorithm > training the model > testing the model__
 
@@ -43,9 +43,15 @@ We have prepared some data sets here to begin with,
 
 ![Function-approximation](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/function-approximation-cos/cos-function.csv)
 
+This is some common trignometry function :)
+
 ![kickstarter-projects-success](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/kickstarter-projects/kick-2016.csv)
 
+Data are collected from [Kickstarter Platform](https://www.kickstarter.com/)
+
 ![interview-attendence](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/will-they-come-to-interview/Interview.csv)
+
+The data pertains to the recruitment industry in India for the years 2014-2016 and deals with candidate interview attendance for various clients. The details are largely self explanatory. More information on [https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem](https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem)
 
 Each team will be given a data set which they needs to analyse using ML studio, and needs to present it to the crowed with the findings.
 
