@@ -54,9 +54,17 @@ Data are collected from [Kickstarter Platform](https://www.kickstarter.com/) try
 5. ![interview-attendence-dataset](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/datasets/will-they-come-to-interview/Interview.csv)
 The data pertains to the recruitment industry in India for the years 2014-2016 and deals with candidate interview attendance for various clients. The details are largely self explanatory. [More](https://www.kaggle.com/vishnusraghavan/the-interview-attendance-problem)
 
+Try few algorithms to determine outcome of each data set,
 
+![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/pick-an-algo.PNG)
 
 Each team will be given a data set which they needs to analyse using ML studio, and needs to present it to the crowed with the findings.
+
+## At the end of the session
+
+Try to figure out diffrent types of evaluation 
+
+![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/evaluate.PNG)
 
 ![Expiriment](https://github.com/rangasurendra/evening-brew-ml/blob/master/files/images/some-output.PNG)
  
